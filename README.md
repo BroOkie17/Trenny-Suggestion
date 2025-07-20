@@ -6,7 +6,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**A powerful, feature-rich Discord bot for managing suggestions with advanced analytics and moderation**
+**A powerful, Suggestion Discord bot for managing suggestions with advanced Functionality**
 
 [Join Trenny Development](https://discord.gg/trennydev) | [Support](https://discord.gg/trennydev) | [Documentation](#documentation)
 
@@ -34,22 +34,10 @@
 
 ### 🎯 **Core Functionality**
 - **Slash Command Integration** - Modern Discord slash commands for seamless user experience
-- **Smart Categorization** - Organize suggestions by Feature Requests, Bug Reports, Improvements, or Other
 - **Priority System** - Assign Low, Medium, or High priority levels to suggestions
 - **Anonymous Submissions** - Allow users to submit suggestions anonymously
 - **File Attachments** - Support for images and files to enhance suggestion details
 
-### 📊 **Advanced Analytics**
-- **Real-time Statistics** - Track total, approved, denied, and pending suggestions
-- **Visual Charts** - Beautiful chart generation using Chart.js for data visualization  
-- **Guild-specific Metrics** - Separate analytics for each Discord server
-- **Historical Data** - Complete suggestion history with timestamps and status changes
-
-### 🛡️ **Moderation & Management**
-- **Auto-moderation** - Built-in content filtering and spam protection
-- **Rate Limiting** - Prevent spam with intelligent cooldown systems
-- **Suggestion Management** - Easy approve/deny system with staff controls
-- **Custom Configuration** - Per-guild settings for channels, roles, and permissions
 
 ### 🔧 **Technical Excellence**
 - **SQLite Database** - Reliable local data storage with efficient queries
@@ -85,19 +73,12 @@ Staff can:
 - Configure bot settings per server
 - Access suggestion history and reports
 
-### 4. **Analytics Dashboard**
-Advanced statistics include:
-- Visual charts showing suggestion trends
-- Category breakdown analysis
-- User engagement metrics
-- Historical performance data
-
 ---
 
 ## 🚀 Quick Start
 
 ### Prerequisites
-- **Node.js** v16.9.0 or higher
+- **Node.js** v20.9.1
 - **Discord Bot Token** (from Discord Developer Portal)
 - **npm** or **yarn** package manager
 
@@ -285,12 +266,6 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 
 </div>
 
-### Special Thanks
-- Discord.js community for excellent documentation
-- Chart.js team for visualization capabilities  
-- SQLite team for reliable database engine
-- All beta testers and contributors
-
 ### Support & Community
 - 💬 **Discord Support**: [discord.gg/trennydev](https://discord.gg/trennydev)
 - 📧 **Contact**: Join our Discord for direct support
@@ -311,4 +286,4 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 
 ---
 
-*© 2024 Trenny Development. All rights reserved.*
+*© 2025 Trenny Development. All rights reserved.*

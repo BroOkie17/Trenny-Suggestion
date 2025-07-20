@@ -1,0 +1,25 @@
+{
+  "1361031013576216596": {
+    "suggestionChannel": "1364124312625352777",
+    "allowAnonymous": true,
+    "managerRoleId": "1364907229358329908",
+    "cooldownMinutes": 2,
+    "autoArchiveDays": null,
+    "dmNotifications": true,
+    "embedTemplate": null,
+    "lastUpdated": 1752569336471,
+    "updatedBy": "931183537233727549"
+  },
+  "1368489748108415036": {
+    "suggestionChannel": "1368492436640497704",
+    "allowAnonymous": true,
+    "managerRoleId": "1368492213364850739",
+    "suggestionRoleId": "1368492244142657556",
+    "cooldownMinutes": null,
+    "autoArchiveDays": null,
+    "dmNotifications": true,
+    "embedTemplate": null,
+    "lastUpdated": 1752738221746,
+    "updatedBy": "931183537233727549"
+  }
+}
